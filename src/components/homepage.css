@@ -1,0 +1,36 @@
+.home-container {
+    text-align: center;
+    margin: 50px;
+  }
+  h1 {
+    color: #ffffff;
+  }
+  h5{
+    color: white;
+  }
+
+  .navigation-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .navigation-item {
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  .navigation-link {
+    text-decoration: none;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border-radius: 5px;
+    display: inline-block;
+    transition: background-color 0.3s;
+  }
+  
+  .navigation-link:hover {
+    background-color: #45a049;
+  }
+  
